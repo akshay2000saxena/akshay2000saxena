@@ -8,7 +8,7 @@
 <br>
 <br>
 
-- ⚡ I'm Akshay, a third-year Software Engineering student at the University of Waterloo.
-- 🔭 I’m currently interning at <a href="https://www.ubisoft.com/en-ca/">Ubisoft</a> as a Tools Programmer. 
-- 💬 I have previously interned at <a href="https://www.sap.com/index.html">SAP</a> and <a href="https://capitalmarkets.bmo.com/en/">Bank of Montreal CM</a>.
-- 📫 Feel free to <a href="a42saxen@uwaterloo.ca">reach out to me</a> if you're interested in collaborating on a project!.
+- ⚡ I'm Akshay, a third-year Software Engineering student at the University of Waterloo
+- 🔭 I’m currently interning at <a href="https://www.ubisoft.com/en-ca/">Ubisoft</a> as a Tools Programmer
+- 💬 I have previously interned at <a href="https://www.sap.com/index.html">SAP</a> and <a href="https://capitalmarkets.bmo.com/en/">Bank of Montreal CM</a>
+- 📫 Feel free to <a href="a42saxen@uwaterloo.ca">reach out to me</a> if you're interested in collaborating on a project!
