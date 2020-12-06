@@ -5,7 +5,8 @@
 <a href="https://github.com/akshay2000saxena">
   <img align="left" alt="Akshay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<br />
+<br>
+<br>
 
 - ⚡ I'm Akshay, a third-year Software Engineering student at the University of Waterloo
 - 🔭 I’m currently interning at Ubisoft as a Tools Programmer
