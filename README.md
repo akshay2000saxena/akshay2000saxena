@@ -1,11 +1,12 @@
 ### Hey there! 👋
+![](https://komarev.com/ghpvc/?username=akshay2000saxena)
+
 <a href="https://www.linkedin.com/in/akshay2000saxena/">
   <img align="left" alt="Akshay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/akshay2000saxena">
   <img align="left" alt="Akshay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-![](https://komarev.com/ghpvc/?username=akshay2000saxena)
 <br>
 <br>
 
