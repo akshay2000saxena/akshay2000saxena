@@ -12,5 +12,5 @@
 
 - ⚡ I'm Akshay, a fourth-year Software Engineering student at the University of Waterloo
 - 🔭 I’m currently working as a project developer for <a href="https://uwblueprint.org/">UW Blueprint</a>
-- 💬 I have previously interned at <a href="https://www.amazon.com">Amazon</a>, <a href="https://www.ubisoft.com/en-ca/">Ubisoft</a>, <a href="https://www.sap.com/index.html">SAP</a>, and <a href="https://capitalmarkets.bmo.com/en/">Bank of Montreal CM</a>
+- 💬 I have previously interned at <a href="https://www.facebook.com">Meta</a>, <a href="https://www.amazon.com">Amazon</a>, <a href="https://www.ubisoft.com/en-ca/">Ubisoft</a>, <a href="https://www.sap.com/index.html">SAP</a>, and <a href="https://capitalmarkets.bmo.com/en/">Bank of Montreal CM</a>
 - 📫 Feel free to <a href="mailto:a42saxen@uwaterloo.ca">reach out to me</a> if you're interested in collaborating on a project!
